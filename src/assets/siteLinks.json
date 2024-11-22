@@ -5,9 +5,14 @@
     "link": "https://blog.fnas64.us.kg/"
   },
   {
-    "icon": "Blog",
+    "icon": "ChartArea",
     "name": "图床",
     "link": "https://img.fnas64.us.kg/"
+  },
+  {
+    "icon": "Envelope",
+    "name": "邮件",
+    "link": "https://mail.serv00.com/"
   },
   {
     "icon": "LaptopCode",
